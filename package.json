@@ -20,7 +20,7 @@
     "stream",
     "http"
   ],
-    "author": "Walker",
+    "author": "KlarkC",
     "license": "GPL-2.0",
     "bugs": {
         "url": "https://github.com/klarkc/nodejs-websocket-example/issues"
