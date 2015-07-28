@@ -1,0 +1,29 @@
+{
+    "name": "nodejs-websocket-example",
+    "version": "1.0.0",
+    "description": "A simple example showing client / server communication through some stream processors",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/klarkc/nodejs-websocket-example.git"
+    },
+    "dependencies": {
+        "http": "^0.0.0",
+        "through2": "^2.0.0",
+        "websocket-stream": "^1.5.1"
+    },
+    "keywords": [
+    "websocket",
+    "stream",
+    "http"
+  ],
+    "author": "Walker",
+    "license": "GPL-2.0",
+    "bugs": {
+        "url": "https://github.com/klarkc/nodejs-websocket-example/issues"
+    },
+    "homepage": "https://github.com/klarkc/nodejs-websocket-example#readme"
+}
