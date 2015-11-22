@@ -1,3 +1,5 @@
+[ ![Codeship Status for klarkc/nodejs-websocket-example](https://codeship.com/projects/e7f0ce60-7385-0133-5a9c-3acbf8274c45/status?branch=master)](https://codeship.com/projects/117344)
+
 # nodejs-websocket-example
 A simple example showing client / server communication through some stream processors
 
